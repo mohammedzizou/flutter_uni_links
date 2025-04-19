@@ -22,7 +22,7 @@ rootProject.allprojects {
 apply plugin: 'com.android.library'
 
 android {
-    namespace 'name.gilbert.flutter.uni_links'
+    namespace 'name.avioli.unilinks'
     compileSdkVersion 33
 
     defaultConfig {
